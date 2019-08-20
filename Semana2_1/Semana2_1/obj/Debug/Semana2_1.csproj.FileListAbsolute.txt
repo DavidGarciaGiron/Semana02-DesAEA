@@ -1,0 +1,10 @@
+C:\Users\david\Documents\6to\DesAEA\S2\Semana2_1\Semana2_1\bin\Debug\Semana2_1.exe.config
+C:\Users\david\Documents\6to\DesAEA\S2\Semana2_1\Semana2_1\bin\Debug\Semana2_1.exe
+C:\Users\david\Documents\6to\DesAEA\S2\Semana2_1\Semana2_1\bin\Debug\Semana2_1.pdb
+C:\Users\david\Documents\6to\DesAEA\S2\Semana2_1\Semana2_1\obj\Debug\Semana2_1.csprojAssemblyReference.cache
+C:\Users\david\Documents\6to\DesAEA\S2\Semana2_1\Semana2_1\obj\Debug\Semana2_1.Form1.resources
+C:\Users\david\Documents\6to\DesAEA\S2\Semana2_1\Semana2_1\obj\Debug\Semana2_1.Properties.Resources.resources
+C:\Users\david\Documents\6to\DesAEA\S2\Semana2_1\Semana2_1\obj\Debug\Semana2_1.csproj.GenerateResource.cache
+C:\Users\david\Documents\6to\DesAEA\S2\Semana2_1\Semana2_1\obj\Debug\Semana2_1.csproj.CoreCompileInputs.cache
+C:\Users\david\Documents\6to\DesAEA\S2\Semana2_1\Semana2_1\obj\Debug\Semana2_1.exe
+C:\Users\david\Documents\6to\DesAEA\S2\Semana2_1\Semana2_1\obj\Debug\Semana2_1.pdb
